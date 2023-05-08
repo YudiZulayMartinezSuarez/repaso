@@ -1,0 +1,52 @@
+{
+    "productos": [
+      {
+        "id": 2,
+        "name": "cambio",
+        "costo": "4444",
+        "inventario": "222"
+      },
+      {
+        "id": 7,
+        "name": "arroz",
+        "costo": "200",
+        "inventario": "2"
+      },
+      {
+        "id": 8,
+        "name": "qqqq",
+        "costo": "2222",
+        "inventario": "333"
+      },
+      {
+        "id": 9,
+        "name": "papa",
+        "costo": "4000",
+        "inventario": "3"
+      },
+      {
+        "id": 10,
+        "name": "comp nuevo",
+        "costo": "23",
+        "inventario": "1"
+      },
+      {
+        "id": 11,
+        "name": "prod 2",
+        "costo": "222222",
+        "inventario": "12"
+      },
+      {
+        "id": 13,
+        "name": "",
+        "costo": "",
+        "inventario": ""
+      }
+    ],
+    "usuarios": [
+      {
+        "id": 1,
+        "name": "n1"
+      }
+    ]
+  }
